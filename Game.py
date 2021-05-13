@@ -13,7 +13,7 @@ RIGHT = (1, 0)
 UP = (0, -1)
 DOWN = (0, 1)
 
-DIFFICULTY = 8
+DIFFICULTY = 7
 
 
 def draw_text(screen, text, size, location):
